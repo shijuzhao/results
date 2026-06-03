@@ -4,6 +4,6 @@ We use the following high-resolution image (3722*2753 pixels) to conduct the mot
 
 ![image](example_image1.jpg)
 
-The result shows that critical tokens concentrate in the first 64 positions.
+The result shows that critical tokens concentrate in the first 64 positions. The code has been provided in the supplementary material.
 
 ![result](imp_tokens_high_resolution.pdf)
